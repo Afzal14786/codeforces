@@ -1,0 +1,19 @@
+# Node dependencies for the scraper
+scripts/node_modules/
+scripts/package-lock.json
+
+# Compiled C++ executables and debug files
+*.out
+*.exe
+*.o
+*.dSYM/
+a.out
+
+# Linux custom compiled binary from your workflow
+solution
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+.cph
