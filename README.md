@@ -38,22 +38,14 @@ I am a Computer Science student focused on **scalable backend engineering** and 
 
 ## 📊 Codeforces Solutions
 
-*This section is automatically updated via a custom Node.js automation script (`cf-init.js`).*
-
 ### Statistics
 
 <div align="center">
   <a href="https://codeforces.com/profile/mdafzal14777">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mdafzal14777&theme=transparent&disable_animations=true&show_icons=true" alt="Codeforces Stats" />
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mdafzal14777&theme=yeblu&show_icons=true" alt="Codeforces Stats" />
   </a>
 </div>
 <br>
-
-<!-- STATS_START -->
-- **Local Problems Solved:** 0
-- **Highest Local Rating:** Unrated
-- **Language:** C++17
-<!-- STATS_END -->
 
 ---
 
@@ -74,9 +66,9 @@ Below is an exhaustive checklist of CP topics I am tracking and implementing.
 ### 2. General Paradigms & Codeforces Specifics
 - [x] Implementation & Brute Force
 - [x] Greedy Algorithms & Scheduling
-- [] Constructive Algorithms
+- [ ] Constructive Algorithms
 - [x] Divide and Conquer
-- [] Interactive Problems
+- [ ] Interactive Problems
 
 ### 3. Searching & Sorting
 - [x] Binary Search (Standard, Lower/Upper Bound)
