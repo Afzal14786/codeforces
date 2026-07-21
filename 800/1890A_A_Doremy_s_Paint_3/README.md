@@ -20,7 +20,7 @@ The input consists of multiple test cases. The first line contains a single inte
 
 The first line of each test case contains a single integer $n$ ($2 \le n \le 100$) — the length of the array $a$.
 
-The second line of each test case contains $ n $ integers $ a_1,a_2,\ldots,a_n $ ($1 \le a_i \le 10^5$).
+The second line of each test case contains $n$ integers $a_1,a_2,\ldots,a_n$ ($1 \le a_i \le 10^5$).
 
 There are no constraints on the sum of $n$ over all test cases.
 
