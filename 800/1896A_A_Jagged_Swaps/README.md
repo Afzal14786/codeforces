@@ -10,7 +10,7 @@
 
 <br>
 
-You are given a permutation$^\dagger$ $a$ of size $n$. You can do the following operation
+You are given a permutation $^\dagger$ $a$ of size $n$. You can do the following operation
 - Select an index $i$ from $2$ to $n - 1$ such that $a_{i - 1} \lt a_i$ and $a_i \gt a_{i+1}$. Swap $a_i$ and $a_{i+1}$.
 
 Determine whether it is possible to sort the permutation after a finite number of operations.
